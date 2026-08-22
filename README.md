@@ -17,7 +17,7 @@
 - ✦ Fã de jogos e cultura geek
 - ✦ Curto uma estética **gótica, sombria e alternativa**
 
----
+<p align="center">
 
 ### ☾ Learning
 
@@ -27,14 +27,14 @@
 - ✦ Engenharia de Software
 - ✦ Desenvolvimento de Sistemas
 - ✦ Fundamentos de Computação
----
+<p align="center">
 
 ### ☾ Philosophy
 
 > **"Per aspera ad astra."**   
 > *Através das dificuldades, até as estrelas.*
 
----
+<p align="center">
 
 
 </br>
