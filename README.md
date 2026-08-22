@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="300" width="900" alt="GIF" align="center" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/download%20(4).jfif">
+<img hight="200" width="900" alt="GIF" align="center" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/download%20(4).jfif">
 </div>
 
 </br>
