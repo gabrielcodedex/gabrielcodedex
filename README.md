@@ -1,13 +1,10 @@
 <div align="center">
 <img hight="100" width="900" alt="GIF" align="center" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/download%20(4).jfif">
 </div>
-
 </br>
 </br>
 </br>
-
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
 # 𝕲𝖆𝖇𝖗𝖎𝖊𝖑 𝖉𝖊 𝕸𝖆𝖙𝖔𝖘
 
 ### ☾ 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
