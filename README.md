@@ -29,7 +29,7 @@
 - ✦ Fundamentos de Computação
 ---
 
-### ☾ 𝕻𝖍𝖎𝖑𝖔𝖘𝖔𝖕𝖍𝖞
+### ☾ Philosophy
 
 > **"Per aspera ad astra."**   
 > *Através das dificuldades, até as estrelas.*
