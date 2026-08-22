@@ -10,12 +10,12 @@
 
 ### ☾ 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
 
-- 🦇 Estudante de **Engenharia de Software**
-- 💻 Apaixonado por **Programação e Tecnologia**
-- 🌑 Sempre buscando aprender algo novo
-- ⚔️ Gosto de transformar ideias em projetos
-- 🎮 Fã de jogos e cultura geek
-- 🖤 Curto uma estética **gótica, sombria e alternativa**
+- ✦ Estudante de **Engenharia de Software**
+- ✦ Apaixonado por **Programação e Tecnologia**
+- ✦ Sempre buscando aprender algo novo
+- ✦ Gosto de transformar ideias em projetos
+- ✦ Fã de jogos e cultura geek
+- ✦ Curto uma estética **gótica, sombria e alternativa**
 
 ---
 
