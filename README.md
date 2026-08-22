@@ -15,10 +15,7 @@
 - ✦ Sempre buscando aprender algo novo
 - ✦ Gosto de transformar ideias em projetos
 - ✦ Fã de jogos e cultura geek
-- ✦ Curto uma estética **gótica, sombria e alternativa**
-
 ***
-
 ### ☾ Learning
 
 - ✦ Linguagem **C**
@@ -28,12 +25,10 @@
 - ✦ Desenvolvimento de Sistemas
 - ✦ Fundamentos de Computação
 ***
-
 ### ☾ Philosophy
 
 > **"Per aspera ad astra."**   
 > *Através das dificuldades, até as estrelas.*
-
 ***
 
 
