@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="300" width="900" alt="GIF" align="center" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/Sir%20Gideon%20Ofnir%20_%20THE%20ALL-KNOWING%2C%20CMXV.jfif">
+<img hight="300" width="900" alt="GIF" align="center" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/download%20(4).jfif">
 </div>
 
 </br>
