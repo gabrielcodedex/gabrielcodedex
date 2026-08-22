@@ -9,20 +9,25 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 18 years  old Engenheiro de software and ansioso por novas descobertas.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+Aprendendo atualmente
+✦ Linguagem C, Html, Css, JavaScript and Python
+✦ Git & GitHub
+✦ Estruturas de Dados e Algoritmos
+✦ Engenharia de Software
+✦ Desenvolvimento de Sistemas
+✦ Fundamentos de Computação
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
-
+☾・Hobbies
+🎮 Jogar
+🎧 Ouvir música
+🎬 Assistir animes 
+📚 Explorar assuntos de tecnologia
+💻 Criar projetos e testar ideias
+🌙 Madrugar programando 
 </br>
 </br>
 </br>
