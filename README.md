@@ -13,21 +13,54 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-Aprendendo atualmente
-✦ Linguagem C, Html, Css, JavaScript and Python
-✦ Git & GitHub
-✦ Estruturas de Dados e Algoritmos
-✦ Engenharia de Software
-✦ Desenvolvimento de Sistemas
-✦ Fundamentos de Computação
+# 🦇 𝕲𝖆𝖇𝖗𝖎𝖊𝖑 𝖉𝖊 𝕸𝖆𝖙𝖔𝖘
 
-☾・Hobbies
-🎮 Jogar
-🎧 Ouvir música
-🎬 Assistir animes 
-📚 Explorar assuntos de tecnologia
-💻 Criar projetos e testar ideias
-🌙 Madrugar programando 
+### ☾ 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
+
+- 🦇 Estudante de **Engenharia de Software**
+- 💻 Apaixonado por **Programação e Tecnologia**
+- 🌑 Sempre buscando aprender algo novo
+- ⚔️ Gosto de transformar ideias em projetos
+- 🎮 Fã de jogos e cultura geek
+- 🖤 Curto uma estética **gótica, sombria e alternativa**
+
+---
+
+### ☾ 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌
+
+- ✦ Linguagem **C**
+- ✦ **Git & GitHub**
+- ✦ Estruturas de Dados e Algoritmos
+- ✦ Engenharia de Software
+- ✦ Desenvolvimento de Sistemas
+- ✦ Fundamentos de Computação
+
+---
+
+### ☾ 𝕳𝖔𝖇𝖇𝖎𝖊𝖘
+
+- 🎮 Jogar
+- 🎧 Ouvir música
+- 🎬 Assistir animes
+- 📚 Aprender sobre tecnologia
+- 💻 Criar projetos e testar ideias
+- 🌙 Madrugar programando XD
+
+---
+
+### ☾ 𝕻𝖍𝖎𝖑𝖔𝖘𝖔𝖕𝖍𝖞
+
+> **"Per aspera ad astra."** 🦇  
+> *Através das dificuldades, até as estrelas.*
+
+---
+
+### 🦇 𝕾𝖙𝖆𝖙𝖚𝖘
+
+```text
+╔══════════════════════════════╗
+║     𝕮𝖔𝖉𝖊 • 𝕷𝖊𝖆𝖗𝖓 • 𝕽𝖊𝖕𝖊𝖆𝖙     ║
+╚══════════════════════════════╝
 </br>
 </br>
 </br>
@@ -56,29 +89,6 @@ Aprendendo atualmente
 </br>
 </br>
 </br>
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
-
-
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
