@@ -6,9 +6,9 @@
 </br>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-# 𝕲𝖆𝖇𝖗𝖎𝖊𝖑 𝖉𝖊 𝕸𝖆𝖙𝖔𝖘
+# Gabriel de Matos
 
-### ☾ 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
+### ☾ About Me
 
 - ✦ Estudante de **Engenharia de Software**
 - ✦ Apaixonado por **Programação e Tecnologia**
@@ -19,7 +19,7 @@
 
 ---
 
-### ☾ 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌
+### ☾ Learning
 
 - ✦ Linguagem **C**
 - ✦ **Git & GitHub**
@@ -27,33 +27,16 @@
 - ✦ Engenharia de Software
 - ✦ Desenvolvimento de Sistemas
 - ✦ Fundamentos de Computação
-
----
-
-### ☾ 𝕳𝖔𝖇𝖇𝖎𝖊𝖘
-
-- 🎮 Jogar
-- 🎧 Ouvir música
-- 🎬 Assistir animes
-- 📚 Aprender sobre tecnologia
-- 💻 Criar projetos e testar ideias
-- 🌙 Madrugar programando XD
-
 ---
 
 ### ☾ 𝕻𝖍𝖎𝖑𝖔𝖘𝖔𝖕𝖍𝖞
 
-> **"Per aspera ad astra."** 🦇  
+> **"Per aspera ad astra."**   
 > *Através das dificuldades, até as estrelas.*
 
 ---
 
-### 🦇 𝕾𝖙𝖆𝖙𝖚𝖘
 
-```text
-╔══════════════════════════════╗
-║     𝕮𝖔𝖉𝖊 • 𝕷𝖊𝖆𝖗𝖓 • 𝕽𝖊𝖕𝖊𝖆𝖙     ║
-╚══════════════════════════════╝
 </br>
 </br>
 </br>
