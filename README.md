@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="300" width="900" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="900" alt="GIF" align="center" src="https://www.pinterest.com/ideas/black-and-white-anime-banner-gif/898750216136/">
 </div>
 
 </br>
