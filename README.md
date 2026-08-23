@@ -8,9 +8,10 @@
 
 <p>
   <strong>
-    <font size="6">Gabriel de Matos</font>
+    <font size="9">Gabriel de Matos</font>
   </strong>
 </p>
+
 ### ☾ About Me
 
 - ✦ Estudante de **Engenharia de Software**
