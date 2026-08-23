@@ -54,8 +54,6 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
 </br>
-</br>
-</br>
 <p align="center" >  
   <img hight="100" width="900" alt="GIF" align="center" src="https://github.com/gabrielcodedex/gabrielcodedex/blob/main/bnner.png?raw=true">
   </a>
