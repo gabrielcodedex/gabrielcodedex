@@ -4,7 +4,6 @@
 </br>
 </br>
 </br>
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 # Gabriel de Matos
 
@@ -58,8 +57,7 @@
 </br>
 </br>
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  <img hight="100" width="900" alt="GIF" align="center" src="https://github.com/gabrielcodedex/gabrielcodedex/blob/main/bnner.png?raw=true">
   </a>
   </p>
 
