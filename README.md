@@ -4,9 +4,10 @@
 </br>
 </br>
 </br>
-<table>
-<tr>
-<td width="45%" valign="top">
+<table style="border: none;">
+<tr style="border: none;">
+
+<td width="45%" valign="top" style="border: none;">
 
 <h1>Gabriel de Matos</h1>
 
@@ -22,11 +23,12 @@
 
 </td>
 
-<td width="55%" align="center" valign="middle">
+<td width="55%" align="center" valign="middle" style="border: none;">
 
 <img width="500" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/black%20cat%20header_banner.jfif">
 
 </td>
+
 </tr>
 </table>
 
