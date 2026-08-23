@@ -58,7 +58,7 @@
 </br>
 </br>
 <p align="center" >  
- <img hight="100" width="600 align="center" <img  src="https://github.com/gabrielcodedex/gabrielcodedex/blob/main/bnner.png?raw=true"/>
+ <img hight="100" width="800 align="center" <img  src="https://github.com/gabrielcodedex/gabrielcodedex/blob/main/bnner.png?raw=true"/>
   </a>
   </p>
 
