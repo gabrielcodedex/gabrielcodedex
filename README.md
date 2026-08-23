@@ -32,14 +32,9 @@
 > **"Per aspera ad astra."**   
 > *Através das dificuldades, até as estrelas.*
 ***
-
-
 </br>
 </br>
 </br>
-
-
-
 # Languages & Tools 🛠:
 </br>
 
