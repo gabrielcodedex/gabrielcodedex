@@ -8,7 +8,7 @@
 
 <p>
   <strong>
-    <font size="9">Gabriel de Matos</font>
+    <font size="20">Gabriel de Matos</font>
   </strong>
 </p>
 
