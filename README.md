@@ -4,22 +4,38 @@
 </br>
 </br>
 </br>
-<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/black%20cat%20header_banner.jfif">
+<table>
+<tr>
+<td width="45%" valign="top">
 
 <h1>Gabriel de Matos</h1>
 
-### ☾ About Me
+☾ <strong>Sobre mim</strong>
 
-- ✦ Estudante de **Engenharia de Software**
-- ✦ Apaixonado por **Programação e Tecnologia**
-- ✦ Sempre buscando aprender algo novo
-- ✦ Gosto de transformar ideias em projetos
-- ✦ Fã de jogos e cultura geek
-***
-### ☾ Learning
+<br><br>
 
-- ✦ Linguagem **C**
-- ✦ **Git & GitHub**
+• ✦ Estudante de <strong>Engenharia de Software</strong><br>
+• ✦ Apaixonado por <strong>Programação e Tecnologia</strong><br>
+• ✦ Sempre buscando aprender algo novo<br>
+• ✦ Gosto de transformar ideias em projetos<br>
+• ✦ Fã de jogos e cultura geek
+
+</td>
+
+<td width="55%" align="center" valign="middle">
+
+<img width="500" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/black%20cat%20header_banner.jfif">
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+### ☾ Aprendendo
+
+- ✦ Linguagem C
+- ✦ Git e GitHub
 - ✦ Estruturas de Dados e Algoritmos
 - ✦ Engenharia de Software
 - ✦ Desenvolvimento de Sistemas
