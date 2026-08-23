@@ -12,7 +12,7 @@
 <h1>Gabriel de Matos</h1>
 
 ☾ <strong>Sobre mim</strong>
-<br><br>
+
 • ✦ Estudante de <strong>Engenharia de Software</strong><br>
 • ✦ Apaixonado por <strong>Programação e Tecnologia</strong><br>
 • ✦ Sempre buscando aprender algo novo<br>
