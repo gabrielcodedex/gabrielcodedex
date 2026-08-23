@@ -4,7 +4,7 @@
 </br>
 </br>
 </br>
-<img hight="400" width="500" align="right" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/black%20cat%20header_banner.jfif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/black%20cat%20header_banner.jfif">
 
 # Gabriel de Matos
 
