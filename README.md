@@ -23,7 +23,9 @@
 - ✦ Estruturas de Dados e Algoritmos
 - ✦ Engenharia de Software
 - ✦ Desenvolvimento de Sistemas
-- ✦ Fundamentos de Computação
+- ✦ Linguagem **Java**
+- ✦ Linguagem **JavaScript**
+- ✦ Linguagem **Python**
 ***
 ### ☾ Philosophy
 
