@@ -6,11 +6,7 @@
 </br>
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/black%20cat%20header_banner.jfif">
 
-<p>
-  <strong>
-    <font size="20">Gabriel de Matos</font>
-  </strong>
-</p>
+<h1 style="font-size: 32px;">Gabriel de Matos</h1>
 
 ### ☾ About Me
 
