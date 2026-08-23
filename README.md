@@ -4,6 +4,7 @@
 </br>
 </br>
 </br>
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 # Gabriel de Matos
 
@@ -36,10 +37,12 @@
 </br>
 
 # Languages & Tools :
+</br>
 
+<p align="center">
 
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="80" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="css3" width="90" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg" alt="HTML" width="100" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="javascript" width="140" hight="50">
@@ -55,6 +58,7 @@
 </br>
 </br>
 <p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
 <img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
   </a>
   </p>
