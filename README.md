@@ -14,7 +14,7 @@
 - ✦ Sempre buscando aprender algo novo
 - ✦ Gosto de transformar ideias em projetos
 - ✦ Fã de jogos e cultura geek
-<br>
+***
 ### ☾ Learning
 
 - ✦ Linguagem **C**
