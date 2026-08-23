@@ -4,14 +4,21 @@
 </br>
 </br>
 </br>
-<table style="border: none;">
-<tr style="border: none;">
+<div align="left">
 
-<td width="45%" valign="top" style="border: none;">
+<img 
+  src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/black%20cat%20header_banner.jfif"
+  width="500"
+  align="right"
+>
 
-<h1>Gabriel de Matos</h1>
+<p style="font-size: 32px; font-weight: bold;">
+Gabriel de Matos
+</p>
 
-☾ <strong>Sobre mim</strong>
+<p>☾ <strong>Sobre mim</strong></p>
+
+<br>
 
 • ✦ Estudante de <strong>Engenharia de Software</strong><br>
 • ✦ Apaixonado por <strong>Programação e Tecnologia</strong><br>
@@ -19,18 +26,11 @@
 • ✦ Gosto de transformar ideias em projetos<br>
 • ✦ Fã de jogos e cultura geek
 
-</td>
+<br>
+<br>
+<br>
 
-<td width="55%" align="center" valign="middle" style="border: none;">
-
-<img width="500" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/black%20cat%20header_banner.jfif">
-
-</td>
-
-</tr>
-</table>
-
-<hr>
+</div>
 
 ### ☾ Aprendendo
 
@@ -39,9 +39,9 @@
 - ✦ Estruturas de Dados e Algoritmos
 - ✦ Engenharia de Software
 - ✦ Desenvolvimento de Sistemas
-- ✦ Linguagem **Java**
-- ✦ Linguagem **JavaScript**
-- ✦ Linguagem **Python**
+- ✦ Linguagem Java
+- ✦ Linguagem JavaScript
+- ✦ Linguagem Python
 ***
 ### ☾ Philosophy
 
