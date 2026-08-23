@@ -4,7 +4,6 @@
 </br>
 </br>
 </br>
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 # Gabriel de Matos
 
@@ -37,9 +36,7 @@
 </br>
 
 # Languages & Tools :
-</br>
 
-<p align="center">
 
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
