@@ -7,7 +7,6 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/gabrielcodedex/gabrielcodedex/refs/heads/main/black%20cat%20header_banner.jfif">
 
 # Gabriel de Matos
-<br clear="right">
 ### ☾ About Me
 
 - ✦ Estudante de **Engenharia de Software**
@@ -15,6 +14,7 @@
 - ✦ Sempre buscando aprender algo novo
 - ✦ Gosto de transformar ideias em projetos
 - ✦ Fã de jogos e cultura geek
+<br clear="right">
 ***
 ### ☾ Learning
 
